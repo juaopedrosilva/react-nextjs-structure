@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+react nextjs javascript structure: [React nextjs typescript structure](https://github.com/juaopedrosilva/react-nextjs-structure)
+react nextjs typescript structure: [React nextjs typescript structure](https://github.com/rocketseat-content/react-nextjs-typescript-structure)
 
 ## Getting Started
 
