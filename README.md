@@ -1,4 +1,5 @@
 react nextjs javascript structure: [React nextjs typescript structure](https://github.com/juaopedrosilva/react-nextjs-structure)
+
 react nextjs typescript structure: [React nextjs typescript structure](https://github.com/rocketseat-content/react-nextjs-typescript-structure)
 
 ## Getting Started
